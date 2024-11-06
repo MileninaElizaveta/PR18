@@ -1,0 +1,18 @@
+Z:\2023-2024 уч.год\31ИС\1_Наши папки\Цигандт\ИСРПО\Пр11\Lib03(Ivanov)\ClassLibrary\bin\Debug\ClassLibrary.dll
+Z:\2023-2024 уч.год\31ИС\1_Наши папки\Цигандт\ИСРПО\Пр11\Lib03(Ivanov)\ClassLibrary\bin\Debug\ClassLibrary.pdb
+Z:\2023-2024 уч.год\31ИС\1_Наши папки\Цигандт\ИСРПО\Пр11\Lib03(Ivanov)\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+Z:\2023-2024 уч.год\31ИС\1_Наши папки\Цигандт\ИСРПО\Пр11\Lib03(Ivanov)\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+Z:\2023-2024 уч.год\31ИС\1_Наши папки\Цигандт\ИСРПО\Пр11\Lib03(Ivanov)\ClassLibrary\obj\Debug\ClassLibrary.dll
+Z:\2023-2024 уч.год\31ИС\1_Наши папки\Цигандт\ИСРПО\Пр11\Lib03(Ivanov)\ClassLibrary\obj\Debug\ClassLibrary.pdb
+Z:\2023-2024 уч.год\31ИС\ИСРПО\1 подгруппа\Миленина\A\Lib03(Ivanov)\ClassLibrary\bin\Debug\ClassLibrary.dll
+Z:\2023-2024 уч.год\31ИС\ИСРПО\1 подгруппа\Миленина\A\Lib03(Ivanov)\ClassLibrary\bin\Debug\ClassLibrary.pdb
+Z:\2023-2024 уч.год\31ИС\ИСРПО\1 подгруппа\Миленина\A\Lib03(Ivanov)\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+Z:\2023-2024 уч.год\31ИС\ИСРПО\1 подгруппа\Миленина\A\Lib03(Ivanov)\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+Z:\2023-2024 уч.год\31ИС\ИСРПО\1 подгруппа\Миленина\A\Lib03(Ivanov)\ClassLibrary\obj\Debug\ClassLibrary.dll
+Z:\2023-2024 уч.год\31ИС\ИСРПО\1 подгруппа\Миленина\A\Lib03(Ivanov)\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\ADM\Desktop\Lib11(Milenina)\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\ADM\Desktop\Lib11(Milenina)\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\ADM\Desktop\Lib11(Milenina)\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\Lib11(Milenina)\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\Lib11(Milenina)\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\ADM\Desktop\Lib11(Milenina)\ClassLibrary\obj\Debug\ClassLibrary.pdb
